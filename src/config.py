@@ -5,6 +5,8 @@ FOCUS_LINES = {
     "RER B": "STIF:Line::C01743:",
     "Metro 13": "STIF:Line::C01383:",
     "Metro 14": "STIF:Line::C01384:",
+    "RER C": "STIF:Line::C01727:",
+    "Transilien N": "STIF:Line::C01736:"
 }
 
 # Fill in after checking the stop referential
