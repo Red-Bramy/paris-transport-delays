@@ -1,0 +1,8 @@
+date,is_public_holiday,holiday_name,is_school_holiday,is_strike,is_weekend
+2026-11-06,False,,False,False,False
+2026-11-07,False,,False,False,True
+2026-11-08,False,,False,False,True
+2026-11-09,False,,False,False,False
+2026-11-10,False,,False,False,False
+2026-11-11,True,Armistice Day,False,False,False
+2026-11-12,False,,False,False,False
